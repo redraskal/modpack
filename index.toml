@@ -589,6 +589,11 @@ file = "config/yungsextras-fabric-1_18.toml"
 hash = "df7d4781fb06f73683aa49b027b8270b2af938b3794b1a9f1d673f89137cf47f"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
+metafile = true
+
+[[files]]
 file = "mods/additional-additions.pw.toml"
 hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
 metafile = true
@@ -890,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
 
 [[files]]
@@ -971,11 +976,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.pw.toml"
-hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-hash = "42a48e3344f319b67b4c82550b54cb08e0c3805bc705ce56a9a2cf2fcade3017"
+hash = "2d28482058d2d26425ce201ff66684944cbf3bac2841cf4fbc9157fe51830fbe"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1986f1bb1573e257a0f657a7f32e76e28e3429bb8fb672013a3bbaa89155fd0e"
+hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
 
 [[files]]
@@ -1259,13 +1259,8 @@ hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "15350b769fc12838c269fb9abe09a27cfbe41a90dcbdce18b55d8bc51236108b"
-metafile = true
-
-[[files]]
 file = "mods/sleep-warp.pw.toml"
-hash = "31a16f82529b0ebc262636a41ad42a5eb033b6d1ad3d1544a2dbfdbcb9b66857"
+hash = "6bdff050481f582ae8ea0fd3d91b44693ea5dbe5bb430b519dbb5a4c3564e8dd"
 metafile = true
 
 [[files]]
@@ -1295,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/sync-fabric.pw.toml"
-hash = "f3699d377ca84bfb0aedf290c34f1a2ac055b453a7f986d303096610efd7c4cd"
+hash = "ffe7d88262b4158912474843328b6d3c22f432d14938a9ff19bf66ae387b4422"
 metafile = true
 
 [[files]]
@@ -1345,7 +1340,7 @@ metafile = true
 
 [[files]]
 file = "mods/twigs.pw.toml"
-hash = "b128fc44da45dd8cd209a95bcfbac8d695bc30bec4cb805b35deba69096f0a17"
+hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
 metafile = true
 
 [[files]]
