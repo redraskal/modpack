@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvil-fix.pw.toml"
-hash = "66b665d4735cfb542f3cfef5e3c0da330f1a1afed07dca3664166cfc05e496da"
+hash = "37ae19b4728879e15b5f35c2f91f80ced77031e05dda2ef0382ef8f04598f057"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/cave-dust.pw.toml"
-hash = "978d3d881ef15445b73a14f093467437ead0cebce39f579d32c2bf62ffce6c20"
+hash = "5bddd570828a6f77747202ef238f520794d8cb7f87a9b5d0929c2be375813197"
 metafile = true
 
 [[files]]

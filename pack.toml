@@ -1,12 +1,12 @@
 name = "Fresh"
-version = "1.0.0"
 author = "redraskal"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "38db0dae172416dc4cdb5a24469b18e5d15687033bb798b117dc572f58744a5a"
+hash = "556c3ec4530c8d65625cc3ab5525863ee61f6783873a0023cc75ad270fd0fd73"
 
 [versions]
 fabric = "0.14.8"
