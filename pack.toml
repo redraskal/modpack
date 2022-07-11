@@ -1,0 +1,13 @@
+name = "Fresh"
+version = "1.0.0"
+author = "redraskal"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "38db0dae172416dc4cdb5a24469b18e5d15687033bb798b117dc572f58744a5a"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"

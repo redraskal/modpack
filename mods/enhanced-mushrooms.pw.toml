@@ -1,0 +1,13 @@
+name = "Enhanced Mushrooms"
+filename = "enhanced_mushrooms-fabric-4.0.0+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88424ca788e3739c07d4b62964fd8196103733ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3788467
+project-id = 383725

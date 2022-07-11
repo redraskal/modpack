@@ -1,0 +1,13 @@
+name = "Genesis - An Origins Addon"
+filename = "genesis-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db59930671de0f9abd9d1a470e0ccef2fdc7ae52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3767473
+project-id = 478902

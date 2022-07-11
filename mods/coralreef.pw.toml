@@ -1,0 +1,13 @@
+name = "CoralReef"
+filename = "coralreef-fabric-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb233d3da17ae383cc6a3445bb0ce835ed109fc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856892
+project-id = 248994

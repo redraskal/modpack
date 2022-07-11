@@ -1,0 +1,13 @@
+name = "Traverse"
+filename = "traverse-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "619de967551a5c31da09db40f87942be17d03469"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3859493
+project-id = 308777

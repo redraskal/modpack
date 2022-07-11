@@ -1,0 +1,13 @@
+name = "Witherborn Origins"
+filename = "Witherborn pack jar.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4a98ce9de21aa62e47a45182af7e1e39909a95a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3785961
+project-id = 547578

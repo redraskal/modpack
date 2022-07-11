@@ -1,0 +1,13 @@
+name = "Medieval Origins"
+filename = "medieval-origins-1.18.x-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5138d148894e4fc76812d3bd1f04540dfb715854"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3758382
+project-id = 508051
