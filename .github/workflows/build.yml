@@ -1,0 +1,26 @@
+name: Build
+on:
+  push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.18.2'
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+      - name: Build
+        run: packwiz cf export -o build.zip
+      - name: Extract
+        run: unzip build.zip -d build
+      - name: Export
+        uses: actions/upload-artifact@v3
+        with:
+          name: Modpack
+          path: ./build/

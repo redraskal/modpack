@@ -33,14 +33,6 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
-file = "config/appliedenergistics2/client.json"
-hash = "8e1abdf2a5ca581b487476ee413c4aaeb73b3173a2eb9512d41443cab9db5bbc"
-
-[[files]]
-file = "config/appliedenergistics2/common.json"
-hash = "dacf0c5e2ba774bf0f60c8ad4a16a34db738bf4a8977f37bdbf2b6b9a496cc44"
-
-[[files]]
 file = "config/architects_palette.json5"
 hash = "5154ec80974fcee32f9be4f57e9836f2f679e23ea12ee17530a18cba931ad712"
 
@@ -241,10 +233,6 @@ file = "config/computercraft-client.toml"
 hash = "8e1af48fbafb26e374fb91793cd950e32dc4008e423267f8d2006c2350bfd567"
 
 [[files]]
-file = "config/connectivity.json"
-hash = "a17f84d0c9a37e9ea618679133dc4498c270753517e12974cb9e07611a716201"
-
-[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
@@ -263,30 +251,6 @@ hash = "a4c70795b0442bb035416e3b15cf2037f260d4fc2248ca64ddd2de91e8817b99"
 [[files]]
 file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
-
-[[files]]
-file = "config/dimdoors/dimdoors-config.json5"
-hash = "bc463abb0f835ca87ad24caf5f40d8b46bd13c1c215c3378bf0d5f8db0ea4fc2"
-
-[[files]]
-file = "config/dimdoors/doors/dungeon_door.json"
-hash = "8cf04f5819938d22fcfcabe1e816ce5c4d3197bf246dd7283ebafce53eeba0c6"
-
-[[files]]
-file = "config/dimdoors/doors/gold_dimensional_door.json"
-hash = "506af78c64b43a46f84bcee6f3e18dde8c9fd04a0454aa34c90885cb1cdcb09c"
-
-[[files]]
-file = "config/dimdoors/doors/iron_dimensional_door.json"
-hash = "5ba780ee98cf115dde3b8e99b306b933b41bf70d886e9ace74f98dd80d4dcc74"
-
-[[files]]
-file = "config/dimdoors/doors/oak_dimensional_door.json"
-hash = "5a9414ecf51afe92af531cd543ec414bfac714f9c554211ef420d066973e3ebb"
-
-[[files]]
-file = "config/dimdoors/doors/quartz_dimensional_door.json"
-hash = "03a40b6981cb2f364b420bbba821d9390c9e2e048db1a7f1dd9dd0e5bb75ba79"
 
 [[files]]
 file = "config/dml-refabricated.json"
@@ -589,11 +553,6 @@ file = "config/yungsextras-fabric-1_18.toml"
 hash = "df7d4781fb06f73683aa49b027b8270b2af938b3794b1a9f1d673f89137cf47f"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
-metafile = true
-
-[[files]]
 file = "mods/additional-additions.pw.toml"
 hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
 metafile = true
@@ -609,13 +568,18 @@ hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "609f69cab831f8d641c7d3a592ac1c0cccd0555267020b622318dce4a35d05e7"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3bdcf466cdc775dcde1743e4b1e49b70018ef1b128384e6ad1b980ef97244b4e"
 metafile = true
 
 [[files]]
 file = "mods/anvil-fix.pw.toml"
-hash = "37ae19b4728879e15b5f35c2f91f80ced77031e05dda2ef0382ef8f04598f057"
+hash = "66b665d4735cfb542f3cfef5e3c0da330f1a1afed07dca3664166cfc05e496da"
 metafile = true
 
 [[files]]
@@ -755,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/cave-dust.pw.toml"
-hash = "5bddd570828a6f77747202ef238f520794d8cb7f87a9b5d0929c2be375813197"
+hash = "978d3d881ef15445b73a14f093467437ead0cebce39f579d32c2bf62ffce6c20"
 metafile = true
 
 [[files]]
@@ -844,6 +808,11 @@ hash = "69307638834094fe8bbfd8b8d378a641e5f10bfb0c7bfe7f18b296127fcc13af"
 metafile = true
 
 [[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "8edcd2e2030099750e0de3d84cacdea4d3d6eb76ebc09903c6edc382fe9e6a38"
+metafile = true
+
+[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "879807dc13e51f6c3860ee49e03612cd382bcd02427782f78711e4d64fa3a990"
 metafile = true
@@ -895,12 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
-metafile = true
-
-[[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "8b458df7544b7f3960da6f8f77eb40d185b8341c3469fbd700864dca0f7f5411"
+hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
 metafile = true
 
 [[files]]
@@ -976,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "60f6269fd7d2aa52defc49fc4963a6736581b341910c7e537c9dbcb97525f83c"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.pw.toml"
+hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 metafile = true
 
 [[files]]
@@ -1124,13 +1093,18 @@ hash = "6ece8e72e082d29e45a965bf411462516080c118172fe78780a9a5b68e9e7902"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d8e6e1b06fa2d717627036d1e9f907b493bf43720fa94b422f546b91c6ad9c8c"
+metafile = true
+
+[[files]]
 file = "mods/minimal-menu.pw.toml"
 hash = "6d8fcffa2efeb5fd67ac0424a7256de1e3af91c62ff189d2d683b205b31e4678"
 metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-hash = "2d28482058d2d26425ce201ff66684944cbf3bac2841cf4fbc9157fe51830fbe"
+hash = "42a48e3344f319b67b4c82550b54cb08e0c3805bc705ce56a9a2cf2fcade3017"
 metafile = true
 
 [[files]]
@@ -1170,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
+hash = "1986f1bb1573e257a0f657a7f32e76e28e3429bb8fb672013a3bbaa89155fd0e"
 metafile = true
 
 [[files]]
@@ -1259,8 +1233,13 @@ hash = "4a1644d6fae0a2a4f51a4dd1249d4fdc12a718a78ae3fe86980515511c5473eb"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "15350b769fc12838c269fb9abe09a27cfbe41a90dcbdce18b55d8bc51236108b"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp.pw.toml"
-hash = "6bdff050481f582ae8ea0fd3d91b44693ea5dbe5bb430b519dbb5a4c3564e8dd"
+hash = "31a16f82529b0ebc262636a41ad42a5eb033b6d1ad3d1544a2dbfdbcb9b66857"
 metafile = true
 
 [[files]]
@@ -1290,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/sync-fabric.pw.toml"
-hash = "ffe7d88262b4158912474843328b6d3c22f432d14938a9ff19bf66ae387b4422"
+hash = "f3699d377ca84bfb0aedf290c34f1a2ac055b453a7f986d303096610efd7c4cd"
 metafile = true
 
 [[files]]
@@ -1340,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/twigs.pw.toml"
-hash = "44f75bcda587cd98b95f19dc02abdc69a6153310afd5c06a3cc75bf1b3b9ca06"
+hash = "b128fc44da45dd8cd209a95bcfbac8d695bc30bec4cb805b35deba69096f0a17"
 metafile = true
 
 [[files]]
