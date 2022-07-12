@@ -5,7 +5,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup packwiz
+      - name: Setup Go
         uses: actions/setup-go@v3
         with:
           go-version: '1.18.2'
@@ -17,3 +17,7 @@ jobs:
           ref: ${{ github.ref }}
       - name: Build
         run: packwiz cf export
+      - name: Export
+        uses: actions/upload-artifact@v2
+        with:
+          path: *.zip
