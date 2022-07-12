@@ -573,6 +573,11 @@ hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "3bdcf466cdc775dcde1743e4b1e49b70018ef1b128384e6ad1b980ef97244b4e"
 metafile = true
@@ -808,6 +813,11 @@ hash = "69307638834094fe8bbfd8b8d378a641e5f10bfb0c7bfe7f18b296127fcc13af"
 metafile = true
 
 [[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
+metafile = true
+
+[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "879807dc13e51f6c3860ee49e03612cd382bcd02427782f78711e4d64fa3a990"
 metafile = true
@@ -860,11 +870,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
-metafile = true
-
-[[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "8b458df7544b7f3960da6f8f77eb40d185b8341c3469fbd700864dca0f7f5411"
 metafile = true
 
 [[files]]
@@ -1085,6 +1090,11 @@ metafile = true
 [[files]]
 file = "mods/medieval-origins.pw.toml"
 hash = "6ece8e72e082d29e45a965bf411462516080c118172fe78780a9a5b68e9e7902"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
 metafile = true
 
 [[files]]
