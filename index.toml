@@ -33,14 +33,6 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
-file = "config/appliedenergistics2/client.json"
-hash = "8e1abdf2a5ca581b487476ee413c4aaeb73b3173a2eb9512d41443cab9db5bbc"
-
-[[files]]
-file = "config/appliedenergistics2/common.json"
-hash = "dacf0c5e2ba774bf0f60c8ad4a16a34db738bf4a8977f37bdbf2b6b9a496cc44"
-
-[[files]]
 file = "config/architects_palette.json5"
 hash = "5154ec80974fcee32f9be4f57e9836f2f679e23ea12ee17530a18cba931ad712"
 
@@ -241,10 +233,6 @@ file = "config/computercraft-client.toml"
 hash = "8e1af48fbafb26e374fb91793cd950e32dc4008e423267f8d2006c2350bfd567"
 
 [[files]]
-file = "config/connectivity.json"
-hash = "a17f84d0c9a37e9ea618679133dc4498c270753517e12974cb9e07611a716201"
-
-[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
@@ -263,30 +251,6 @@ hash = "a4c70795b0442bb035416e3b15cf2037f260d4fc2248ca64ddd2de91e8817b99"
 [[files]]
 file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
-
-[[files]]
-file = "config/dimdoors/dimdoors-config.json5"
-hash = "bc463abb0f835ca87ad24caf5f40d8b46bd13c1c215c3378bf0d5f8db0ea4fc2"
-
-[[files]]
-file = "config/dimdoors/doors/dungeon_door.json"
-hash = "8cf04f5819938d22fcfcabe1e816ce5c4d3197bf246dd7283ebafce53eeba0c6"
-
-[[files]]
-file = "config/dimdoors/doors/gold_dimensional_door.json"
-hash = "506af78c64b43a46f84bcee6f3e18dde8c9fd04a0454aa34c90885cb1cdcb09c"
-
-[[files]]
-file = "config/dimdoors/doors/iron_dimensional_door.json"
-hash = "5ba780ee98cf115dde3b8e99b306b933b41bf70d886e9ace74f98dd80d4dcc74"
-
-[[files]]
-file = "config/dimdoors/doors/oak_dimensional_door.json"
-hash = "5a9414ecf51afe92af531cd543ec414bfac714f9c554211ef420d066973e3ebb"
-
-[[files]]
-file = "config/dimdoors/doors/quartz_dimensional_door.json"
-hash = "03a40b6981cb2f364b420bbba821d9390c9e2e048db1a7f1dd9dd0e5bb75ba79"
 
 [[files]]
 file = "config/dml-refabricated.json"
