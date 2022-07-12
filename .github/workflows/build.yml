@@ -16,9 +16,11 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - name: Build
-        run: packwiz cf export
+        run: packwiz cf export -o build.zip
+      - name: Extract
+        run: unzip build.zip -d build
       - name: Export
         uses: actions/upload-artifact@v3
         with:
           name: Modpack
-          path: ./*.zip
+          path: ./build/
